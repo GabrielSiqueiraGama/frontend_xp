@@ -1,0 +1,10 @@
+.cabeca{
+  background: #15a1ff;
+  height: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 54px;
+  }
